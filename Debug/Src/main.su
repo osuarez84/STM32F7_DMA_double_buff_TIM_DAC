@@ -1,0 +1,9 @@
+main.c:872:13:TransferM1CompleteCh2	0	static
+main.c:856:13:TransferM1CompleteCh1	0	static
+main.c:847:13:TransferM0CompleteCh1	0	static
+main.c:864:13:TransferM0CompleteCh2	0	static
+main.c:132:6:SystemClock_Config	88	static
+main.c:838:6:HAL_DAC_ConvCpltCallbackCh1	0	static
+main.c:883:19:HAL_DAC_Start_DMA_double_buff	40	static
+main.c:87:5:main	104	static
+main.c:1011:6:_Error_Handler	0	static
